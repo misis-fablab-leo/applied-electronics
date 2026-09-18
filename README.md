@@ -1,2 +1,3 @@
-# applied-electronics
+# RoboCraft
+
 Applied Electronics course
