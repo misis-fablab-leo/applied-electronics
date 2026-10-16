@@ -99,6 +99,8 @@
 
 <img src="https://github.com/user-attachments/assets/f5e046fc-fa51-4efe-b8df-05a9673d3d9b" alt="RoboCraft — фотография 4" width="360">
 
+<img width="5712" height="4284" alt="IMG_5859" src="https://github.com/user-attachments/assets/1221aef3-8aec-4d0a-962c-0bc086b7db47" />
+
 ### Видеозаписи и дополнительные материалы
 
 1. [Материал 1](https://github.com/user-attachments/assets/515a7e60-d67d-472b-8ec5-c67a2b3fad61)
@@ -106,6 +108,7 @@
 3. [Материал 3](https://github.com/user-attachments/assets/9559f6eb-bb5c-4e4c-ad5f-aa5480645255)
 4. [Материал 4](https://github.com/user-attachments/assets/de666823-f922-4c70-bf3a-876a52eb2e15)
 5. [Материал 5](https://github.com/user-attachments/assets/2e9ca343-acac-4a90-85ca-f020cb660f51)
+6. [Материал 6](https://github.com/user-attachments/assets/af332938-1daa-4e6c-acec-0ea5670cd85b)
 
 ## Испытания
 
